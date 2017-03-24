@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+org.eclipse.rse.preferences.order.connections=CN00207377.Local;CN00207377.192.168.99.100\:2222;CN00207377.192.168.99.100;CN00207377.192.168.99.100\:2222111;CN00207377.192.168.99.100_new;CN00207377.172.18.0.3
+org.eclipse.rse.preferences.verify.connection=false
